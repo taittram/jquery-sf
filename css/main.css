@@ -16,3 +16,14 @@ img {
 	margin-bottom: 18%;
 	margin-left: -16%;
 }
+
+#container h2 {
+	right: 0;
+	position: absolute;
+	margin-top: -90px;
+}
+
+#container .seperate {
+	margin-top: -50px;
+	right: 0;
+}
